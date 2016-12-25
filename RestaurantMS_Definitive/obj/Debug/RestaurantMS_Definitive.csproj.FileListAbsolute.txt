@@ -1,0 +1,34 @@
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.exe.config
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.exe
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.pdb
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\bin\Debug\MaterialSkin.dll
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.AdminPanel.resources
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.loginPanel.resources
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.posPanel.resources
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.Settings.resources
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.exe
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.pdb
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\RestaurantMS_Definitive\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.orderMaster.resources
+C:\Users\darry\Desktop\New folder\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.exe.config
+C:\Users\darry\Desktop\New folder\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.exe
+C:\Users\darry\Desktop\New folder\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.pdb
+C:\Users\darry\Desktop\New folder (2)\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.exe.config
+C:\Users\darry\Desktop\New folder (2)\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.exe
+C:\Users\darry\Desktop\New folder (2)\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.pdb
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.exe.config
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.exe
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.pdb
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.exe
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\bin\Debug\RestaurantMS_Definitive.pdb
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\bin\Debug\MaterialSkin.dll
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.csprojResolveAssemblyReference.cache
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.AdminPanel.resources
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.loginPanel.resources
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.orderMaster.resources
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.posPanel.resources
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.Properties.Resources.resources
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.Settings.resources
+C:\Users\darry\Desktop\RMS v2.0\RestaurantMS_Definitive\obj\Debug\RestaurantMS_Definitive.csproj.GenerateResource.Cache
